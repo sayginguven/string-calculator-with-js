@@ -11,7 +11,7 @@ examples
 
 ["*", "2", "5", "3"] 
 main operation is *
-result___ 2*5*3 ___
+<p>result___ 2*5*3 ___</p>
 
 ["-", "2", "-5", "3"]
 main operation is -
