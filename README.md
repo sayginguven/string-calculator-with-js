@@ -11,19 +11,19 @@ examples
 
 ["*", "2", "5", "3"] 
 main operation is *
-<p>result___ 2*5*3 ___</p>
+<p style="color:blue"> 2*5*3 </p>
 
 ["-", "2", "-5", "3"]
 main operation is -
-result___ 2-(-5)-3___
+<p style="color:blue">2-(-5)-3</p>
 
 ["+", "5", "2", "4", "*", "5", "4"]
 main operation is +
-result___ (5+2+4)+(5*4) ___
+<p style="color:blue">(5+2+4)+(5*4)</p>
 
 ["+", "-", "5", "2", "4", "*", "5", "4"]
 main operation is -
-result___ (5-2-4) + (5*4) ___
+<p style="color:blue"> (5-2-4) + (5*4)</p>
 
 
 
