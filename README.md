@@ -9,22 +9,30 @@ operands will be calculated based on the prefixed operator
 
 examples
 
+<div>
 ["*", "2", "5", "3"] 
 main operation is *
-<p style="color:blue"> 2*5*3 </p>
+  <p> <strong> 2*5*3 </strong> </p>
+</div>
 
+<div>
 ["-", "2", "-5", "3"]
 main operation is -
-<p style="color:blue">2-(-5)-3</p>
+  <p> <strong> 2-(-5)-3 </strong></p>
+</div>
 
+<div>
 ["+", "5", "2", "4", "*", "5", "4"]
 main operation is +
-<p style="color:blue">(5+2+4)+(5*4)</p>
+<p> <strong> (5+2+4)+(5*4) </strong></p>
+</div>
 
+
+<div>
 ["+", "-", "5", "2", "4", "*", "5", "4"]
 main operation is -
-<p style="color:blue"> (5-2-4) + (5*4)</p>
-
+<p> <strong> (5-2-4) + (5*4) </strong></p>
+</div>
 
 
 
